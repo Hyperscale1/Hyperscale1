@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Hello there my name is hyperscle and im new to coding fivem resources so dont be too harsh on my scripts!
+
+:discord: 
+
+
 <!--
 **Hyperscale1/Hyperscale1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
