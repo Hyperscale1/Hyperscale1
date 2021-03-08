@@ -2,7 +2,7 @@
 
 Hello there my name is hyperscle and im new to coding fivem resources so dont be too harsh on my scripts!
 
-:discord: 
+:discord: :cookie:
 
 
 <!--
