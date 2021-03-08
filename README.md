@@ -2,7 +2,9 @@
 
 Hello there my name is hyperscle and im new to coding fivem resources so dont be too harsh on my scripts!
 
-:discord: :cookie:
+![download](https://user-images.githubusercontent.com/70802891/110260592-a01ffd00-7ff8-11eb-8dd0-f1023e2000ec.jpg) 
+
+
 
 
 <!--
