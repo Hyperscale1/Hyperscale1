@@ -3,6 +3,9 @@
 Hello there my name is hyperscale and im new to coding fivem resources so dont be too harsh on my scripts!
 https://curious-melodic-baryonyx.glitch.me
 
+  <img src="https://curious-melodic-baryonyx.glitch.me" />
+
+
 My discord: https://discord.gg/BZgWwrzGra
 
 
