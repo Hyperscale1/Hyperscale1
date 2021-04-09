@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Hello there my name is hyperscale and im new to coding fivem resources so dont be too harsh on my scripts!
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Hyperscale1/Hyperscale1/master/code.gif" width="500" height="320" max-width="500" max-height="320" />
+######<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Hyperscale1/Hyperscale1/master/code.gif" width="500" height="320" max-width="500" max-height="320" />
 
 - 🔭 I’m currently working on a FiveM whitelist script
 - 🌱 I’m currently learning to code in lua coding
