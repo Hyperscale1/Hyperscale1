@@ -1,5 +1,5 @@
 
-## Hey 👋, I'm Hyperscale! ![](https://komarev.com/ghpvc/?username=Hyperscale1&label=Views&color=lightgrey&style=flat) [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/5yzaXRsKyc) 
+## Hey 👋, I'm Hyperscale! ![](https://komarev.com/ghpvc/?username=Hyperscale1&label=Views&color=lightgrey&style=flat) [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/zJqsqFfzXT) 
 
 ```js
 
