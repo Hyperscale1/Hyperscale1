@@ -1,8 +1,7 @@
-
 ## Hey 👋, I'm Hyperscale! ![](https://komarev.com/ghpvc/?username=Hyperscale1&label=Views&color=lightgrey&style=flat) [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/zJqsqFfzXT)[![wakatime](https://wakatime.com/badge/user/6e098b16-30e8-493e-bf77-598fafbb912d.svg?style=for-the-badge)](https://wakatime.com/@6e098b16-30e8-493e-bf77-598fafbb912d)
 
 
-I'm Hyperscale a discord.js and website developer! I specialise in coding discord bots in javascript and sometimes HTML websites although I do tend to stick to Javascript if you would like to checkout my projects you can checkout my store [here](https://hyperscripts.co)
+Hi I'm Hyperscale a website devloper and Discord Bot Developer located in Australia mainly working on Node based application. I've been programming since 2021 and am a fully self taught coder. I work at [Weblutions](https://weblutions.com) as the Automated deployment adminstrator and the maintainer of [FaxCad](https://weblutions.com/store/faxcad).
 
 <p align="center">
 <a href="https://github.com/Hyperscale1">
@@ -10,6 +9,17 @@ I'm Hyperscale a discord.js and website developer! I specialise in coding discor
 </p>
 
 ---
+## 🔧 Tools & Software
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![](	https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-<h3 align=center>Thanks for viewing my profile have a look at my repos and tell me if you find a bug!</h3>
+
+---
+## My Stats
+
+### Github
+![](https://github-readme-stats.vercel.app/api?username=Hyperscale1&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyperscale1&theme=blue-green)
+
+### Wakatime
+![](https://wakatime.com/share/@Hyperscale/98bdb203-7aaf-49dd-ba35-3f6729124c7c.png)
 
