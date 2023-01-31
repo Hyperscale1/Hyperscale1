@@ -1,4 +1,4 @@
-## Hey 👋, I'm Hyperscale! ![](https://komarev.com/ghpvc/?username=Hyperscale1&label=Views&color=lightgrey&style=flat) [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/zJqsqFfzXT)[![wakatime](https://wakatime.com/badge/user/6e098b16-30e8-493e-bf77-598fafbb912d.svg?style=for-the-badge)](https://wakatime.com/@6e098b16-30e8-493e-bf77-598fafbb912d)
+## Hey 👋, I'm Hyperscale! [![wakatime](https://wakatime.com/badge/user/6e098b16-30e8-493e-bf77-598fafbb912d.svg?style=for-the-badge)](https://wakatime.com/@6e098b16-30e8-493e-bf77-598fafbb912d)
 
 
 Hi I'm Hyperscale a website devloper and Discord Bot Developer located in Australia mainly working on Node based application. I've been programming since 2021 and am a fully self taught coder. I work at [Weblutions](https://weblutions.com) as the Automated deployment adminstrator and the maintainer of [FaxCad](https://weblutions.com/store/faxcad).
