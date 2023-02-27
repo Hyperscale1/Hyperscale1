@@ -2,6 +2,7 @@
 
 
 Hi I'm Hyperscale a website devloper and Discord Bot Developer located in Australia mainly working on Node based application. I've been programming since 2021 and am a fully self taught coder. I work at [Weblutions](https://weblutions.com) as the Automated deployment adminstrator and the maintainer of [FaxCad](https://weblutions.com/store/faxcad).
+Hi, I'm Hyperscale! I'm a self-taught programmer based in Australia, specializing in developing Node-based applications and Discord bots. I've been programming since 2021 and have already made significant strides in the industry. Currently, I work at [Weblutions](https://weblutions.com) as the Automated Deployment Administrator, where I ensure that the deployment process runs smoothly for the company's various web projects. In addition to my role as Automated Deployment Administrator, I'm also the Maintainer of [FaxCad](https://weblutions.com/store/faxcad), a web-based software offered by Weblutions that provides an easy and efficient way for gaming communities to enhance the roleplay experience. As a developer, I'm constantly improving my skills and taking on new challenges in the world of web development. I'm dedicated to providing the best possible solutions for my clients and am always looking for ways to expand my knowledge and expertise.
 
 <p align="center">
 <a href="https://github.com/Hyperscale1">
