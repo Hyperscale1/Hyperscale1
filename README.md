@@ -18,7 +18,3 @@ Hi, I'm Hyperscale! I'm a self-taught programmer based in Australia, specializin
 ### Github
 ![](https://github-readme-stats.vercel.app/api?username=Hyperscale1&theme=blue-green)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyperscale1&theme=blue-green)
-
-### Wakatime
-![](https://wakatime.com/share/@Hyperscale/8d9d4c2a-30c1-410c-a4ee-b70d198cacb6.svg)
-
