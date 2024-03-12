@@ -22,17 +22,17 @@ Hi, I'm Hyperscale! I'm a self-taught programmer based in Australia, specializin
 
 # Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-730%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-732%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-280.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-280.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 119.1 kB Used in GitHub's Storage 
  > 
-> 🏆 83 Contributions in the Year 2024
+> 🏆 85 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -43,21 +43,21 @@ Hi, I'm Hyperscale! I'm a self-taught programmer based in Australia, specializin
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                26 commits          ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
-🌆 Daytime                34 commits          ████████░░░░░░░░░░░░░░░░░   31.78 % 
-🌃 Evening                47 commits          ███████████░░░░░░░░░░░░░░   43.93 % 
+🌞 Morning                26 commits          ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+🌆 Daytime                35 commits          ████████░░░░░░░░░░░░░░░░░   31.82 % 
+🌃 Evening                49 commits          ███████████░░░░░░░░░░░░░░   44.55 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Tuesday                  22 commits          █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
-Wednesday                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-Thursday                 16 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Friday                   25 commits          ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
-Saturday                 10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-Sunday                   16 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Monday                   12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Tuesday                  25 commits          ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+Wednesday                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Thursday                 16 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Friday                   25 commits          ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+Saturday                 10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Sunday                   16 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
 ```
 
 
