@@ -24,7 +24,7 @@ Hi, I'm Hyperscale! I'm a self-taught programmer based in Australia, specializin
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-770%20hrs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-99-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-104-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-399.9%20thousand%20lines%20of%20code-blue)
 
