@@ -30,7 +30,7 @@ Hi, I'm Hyperscale! I'm a self-taught programmer based in Australia, specializin
 
 **🐱 My GitHub Data** 
 
-> 📦 119.2 kB Used in GitHub's Storage 
+> 📦 119.3 kB Used in GitHub's Storage 
  > 
 > 🏆 140 Contributions in the Year 2024
  > 
