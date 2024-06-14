@@ -22,7 +22,7 @@ Hi, I'm Hyperscale! I'm a self-taught programmer based in Australia, specializin
 
 # Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-806%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-811%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -32,7 +32,7 @@ Hi, I'm Hyperscale! I'm a self-taught programmer based in Australia, specializin
 
 > 📦 119.4 kB Used in GitHub's Storage 
  > 
-> 🏆 168 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
