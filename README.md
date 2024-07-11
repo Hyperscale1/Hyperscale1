@@ -32,6 +32,8 @@ Hi, I'm Hyperscale! I'm a self-taught programmer based in Australia, specializin
 
 > 📦 119.4 kB Used in GitHub's Storage 
  > 
+> 🏆 179 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 18 Public Repositories 
