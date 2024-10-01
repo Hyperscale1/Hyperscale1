@@ -22,7 +22,7 @@ Hi, I'm Hyperscale! I'm a self-taught programmer based in Australia, specializin
 
 # Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-855%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-854%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -31,6 +31,8 @@ Hi, I'm Hyperscale! I'm a self-taught programmer based in Australia, specializin
 **🐱 My GitHub Data** 
 
 > 📦 119.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 207 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -65,16 +67,20 @@ Sunday                   38 commits          ████░░░░░░░�
 🕑︎ Time Zone: Australia/Brisbane
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               10 mins             ██████████████████░░░░░░░   72.12 % 
+JSON                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+EJS                      2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  15 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Equipment-Tracker-Applica15 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      15 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
