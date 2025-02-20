@@ -22,7 +22,7 @@ Hi, I'm Hyperscale! I'm a self-taught programmer based in Australia, specializin
 
 # Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-941%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-942%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
@@ -32,7 +32,7 @@ Hi, I'm Hyperscale! I'm a self-taught programmer based in Australia, specializin
 
 > 📦 122.1 kB Used in GitHub's Storage 
  > 
-> 🏆 107 Contributions in the Year 2025
+> 🏆 108 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -92,11 +92,11 @@ Linux                    1 hr 46 mins        █████░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               26 repos            ███████░░░░░░░░░░░░░░░░░░   27.08 % 
-TypeScript               19 repos            █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-Lua                      16 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Vue                      9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-EJS                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+JavaScript               26 repos            ███████░░░░░░░░░░░░░░░░░░   26.80 % 
+TypeScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+Lua                      16 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Vue                      9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+EJS                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 ```
 
 
