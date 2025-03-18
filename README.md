@@ -60,7 +60,6 @@ As a developer, I'm committed to continuous learning and tackling new challenges
 
 - **Portfolio:** [hyperscale.zone](https://hyperscale.zone)
 - **GitHub:** [Hyperscale1](https://github.com/Hyperscale1)
-- **Discord:** [![Discord Presence](https://lanyard.cnrad.dev/api/906061699562475581)](https://discord.com/users/906061699562475581)
 
 ---
 
