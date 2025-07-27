@@ -15,7 +15,6 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **[Hyper Forms](https://forms.hyperscale.zone)**
 - 🌎 All my projects are available at **[hyperscale.zone](https://hyperscale.zone)**
 - 📫 Reach me at **me@hyperscale.zone**
 - 🎨 I enjoy working with **Node.js, React, Tailwind, TypeScript, Prisma, and Supabase**
